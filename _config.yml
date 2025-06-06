@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shidong Shen (申世东)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's Student at UCAS and ISCAS"
   location         : "Beijing, China"
   employer         : "Institute of Software, Chinese Acedemy of Science"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SeddonShen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
