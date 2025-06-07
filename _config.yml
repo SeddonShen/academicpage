@@ -13,7 +13,7 @@ title                    : "Shidong Shen / Site Title"
 title_separator          : "-"
 name                     : &name "Shidong Shen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://seddonshen.github.io/academicpage/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master's Student at UCAS and ISCAS"
   location         : "Beijing, China"
-  employer         : "Institute of Software, Chinese Acedemy of Science"
+  employer         : "Institute of Software, CAS"
   uri              : # URL
   email            : "shensd@ios.ac.cn" 
 
